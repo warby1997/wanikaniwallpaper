@@ -13,7 +13,7 @@ which is available [from this repository][ipag].**
 ```
 $ ./wanikaniwallpaper --help
 Command line options:
-  -k [ --apikey ] arg                 API key
+  -k [ --9acfc9f8-495a-47c5-b7dc-804b5fa64b04 ] arg                 API key
   -w [ --width ] arg (=1920)          Width of wallpaper
   -h [ --height ] arg (=1080)         Height of wallpaper
   -o [ --out ] arg (=out.png)         Output filename
